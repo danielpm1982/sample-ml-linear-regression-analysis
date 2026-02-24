@@ -1,28 +1,49 @@
 # sample-ml-linear-regression-analysis
-This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Pygame, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
+This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Networkx, Pingouin, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
 
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
-[**Description of this repository**]<br>This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Pygame, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
+[**Description of this repository**]<br>This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Networkx, Pingouin, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
 
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
 
 **Travel Time - Distance x Time**
 
-GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/linear-regression-analysis-travel-time.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/linear-regression-analysis-travel-time.ipynb)<br>
-Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/linear-regression-analysis-travel-time.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/linear-regression-analysis-travel-time.ipynb)<br>
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-travel-time.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-travel-time.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-travel-time.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-travel-time.ipynb)<br>
+
+**Corruption Perceptions Index (CPI) - Age, Hours x CPI**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi.ipynb)<br>
+
+**Corruption Perceptions Index (CPI) - Region x CPI**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi-region.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi-region.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi-region.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-cpi-region.ipynb)<br>
+
+**Babies' Growth - Age x Height**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-height.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-height.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-height.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-simple-height.ipynb)<br>
+
+**Companies Return-Rate - Disclosure, Indebtedness, Assets, Liquidity x Return-Rate**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-return.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-return.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-return.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-return.ipynb)<br>
+
+**Brazil Public Schools - SAEB - Student General Performance x State x Saeb Score**
+
+GitHub:<br>[https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-saeb.ipynb](https://github.com/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-saeb.ipynb)<br>
+Colab:<br>[https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-saeb.ipynb](https://colab.research.google.com/github/danielpm1982/sample-ml-linear-regression-analysis/blob/master/regression-analysis-multiple-saeb.ipynb)<br>
 
 [**Source Code and Run**]<br>
 Source code available at github.com, through the following link:<br>
 [https://github.com/danielpm1982/sample-ml-linear-regression-analysis](https://github.com/danielpm1982/sample-ml-linear-regression-analysis) <br>
 The source code includes the Jupyter Notebooks .ipynb files themselves (one for each example), static resources - as images, .csv data files, as well as the environment.yml file, which can be used to generate an Anaconda environment for running this project locally (don't forget to customize the env paths to your own filesystem and OS when creating the environment).<br>
 You can also run this Jupiter Notebook project remotely at [https://colab.research.google.com/notebook](https://colab.research.google.com/notebook), importing the content directly from this github repository to your Colab account, without having to create any Anaconda environment locally.
-
-[**Printscreen samples**]<br>
-
-![./](./)
 
 [**Support**]<br>
 If you have any suggestion or correction about the content of this repository, please, feel free to open an issue at the project issues' section:<br>
