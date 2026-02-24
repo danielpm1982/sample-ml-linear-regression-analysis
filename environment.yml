@@ -1,0 +1,17 @@
+name: /home/daniel/anaconda-workspace/sample-ml-linear-regression-analysis/env
+channels:
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - scipy
+  - plotly
+  - matplotlib
+  - pandas
+  - numpy
+  - statsmodels
+  - scikit-learn
+  - pingouin
+  - seaborn
+  - jupyterlab
+prefix: /home/daniel/anaconda-workspace/sample-ml-linear-regression-analysis/env
