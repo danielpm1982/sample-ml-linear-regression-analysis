@@ -1,10 +1,10 @@
 # sample-ml-linear-regression-analysis
-This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Pygame, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
+This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments
 
 © 2026 Daniel Pinheiro Maia All Rights Reserved<br>
 (see Copyright© License at the end of this text).
 
-[**Description of this repository**]<br>This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Pygame, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
+[**Description of this repository**]<br>This is a sample Machine Learning project that exemplifies how to proceed Linear Regression Analysis, using Python, Pandas, NumPy, SciPy, Statsmodels, Statstests, Pingouin, Scikit-learn, Matplotlib, Seaborn and Plotly, along with Anaconda managed environments.
 
 [**Content**]<br>
 GitHub jupyter notebook | Colab dynamic code import and run:
